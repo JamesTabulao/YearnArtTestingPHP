@@ -15,7 +15,7 @@
 <title>Yearn Art | Home</title>
 <link rel="icon" href="Yearn.jpg" type="image/png">
 
-<!--hello-->
+<!--hello James-->
 </head>
 <body>
   <nav class="navbar">
